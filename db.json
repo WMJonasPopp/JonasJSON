@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+	  "id": 1,
+      "title": "Book A",
+      "release_date": "24-08-2022",
+      "price": "10€"
+    }
+  ]
+}
